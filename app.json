@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "trab1-app",
+    "slug": "trab1-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts":["../android/app/src/main/assets/fonts/Raleway.ttf"]
+        }
+      ]
+    ]
+  }
+}
